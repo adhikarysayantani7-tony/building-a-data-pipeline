@@ -1,0 +1,14 @@
+OrderID,OrderDate,CustomerName,Region,Category,Quantity,UnitPrice,Status
+ORD-1001,2026-10-01,Michael Johnson,east,Electronics,2,450.00,completed
+ORD-1002,2026-10-01,Pemba Tamang,West,Clothing,3,45.00,Completed
+ORD-1003,2026-10-02,Emily Carter,NORTH,Home,,120.00,Completed
+ORD-1004,2026-10-02,Ethan Miller,south,Electronics,1,890.00,Cancelled
+ORD-1005,2026-10-03,Bikash Rai,East,Clothing,4,35.00,completed
+ORD-1002,2026-10-01,Pemba Tamang,West,Clothing,3,45.00,Completed
+ORD-1006,2026-10-04,Liam Brooks,WEST,Beauty,2,,Completed
+ORD-1007,2026-10-05,Sabina Chettri,north,Electronics,1,520.00,Completed
+ORD-1008,2026-10-05,Chloe Bennett,South,Home,2,150.00,completed
+ORD-1009,2026-10-06,Olivia Davis,east,Clothing,5,40.00,Completed
+ORD-1010,2026-10-07,Soniya Sarkar,west,Beauty,3,65.00,completed
+ORD-1011,2026-10-07,Aniket Sharma,NORTH,Electronics,1,620.00,Completed
+ORD-1012,2026-10-08,Sayantani Adhikary,east,Home,2,210.00,Completed
